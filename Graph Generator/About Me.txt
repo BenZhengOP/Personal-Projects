@@ -1,0 +1,3 @@
+11/14/2023: 
+    This project served as a refresher of my Java syntax as well as just a fun project to satisfy my curiosity. 
+    To summarize, in this game, Arknights, there are units that generate a currency, and I wanted to make these graphs to visualize when to use which one.
